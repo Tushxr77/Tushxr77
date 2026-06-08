@@ -53,7 +53,22 @@
 ![Vscode](https://skillicons.dev/icons?i=vscode)
 
 ---
+## 📚 Currently Learning
 
+* Data Structures & Algorithms
+* Java Development
+* React.js
+* Full Stack Development
+* Open Source Contribution
+---
+## 🎯 Goals
+
+* Solveing DSA Problems
+* Build Full Stack Projects
+* Secure an Internship
+* Contribute to Open Source
+* Become a Skilled Software Engineer
+---
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -85,14 +100,28 @@
 </p>
 
 ---
+## 🐍 Contribution Snake
+
+![Snake animation](https://github.com/Tushxr77/Tushxr77/blob/output/github-contribution-grid-snake-dark.svg)
 
 ## 🚀 Featured Projects
 
-🔹 Student Resource Portal
+### 📚 Online Book Store Website
 
-🔹 AKTU Previous Year Papers Website
+* Developed during 2nd Year B.Tech
+* Built using HTML, CSS and JavaScript
+* Responsive and user-friendly design
 
-🔹 React Web Development Projects
+### 🎓 Student Resource Portal
+
+* Platform for Notes, PYQs and Academic Resources
+* Designed to help students access study materials easily
+
+### 📄 AKTU Previous Year Papers Website
+
+* Semester-wise subjects and previous year papers
+* Developed specifically for AKTU students
+
 
 ---
 
@@ -101,7 +130,13 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ---
+## 💻 Coding Profiles
 
+* 🚀 LeetCode Learner
+* 💡 DSA Enthusiast
+* 🌐 Web Developer
+* 📚 Continuous Learner
+---
 ### ✨ Fun Fact
 
 ```javascript
