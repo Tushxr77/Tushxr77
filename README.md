@@ -33,16 +33,16 @@
 ```text
 🎓 B.Tech Computer Science Engineering Student
 💻 Aspiring Software Engineer
-☕ Currently focused on Java + Data Structures & Algorithms
+☕ Focused on Java + Data Structures & Algorithms
 ⚛️ Building projects with React and modern web technologies
 🚀 Interested in Full Stack Development
 📚 Improving problem-solving through LeetCode
-🌱 Learning, building, breaking, fixing, repeating.
+🌱 Learn → Build → Debug → Improve → Repeat
 ```
 
-I'm a Computer Science student passionate about **software development, problem solving and building useful products**.
+I'm a Computer Science student passionate about **software development, problem solving, and building useful products**.
 
-Currently, I'm focused on strengthening my **Java, DSA and full-stack development skills** while building projects that solve real student and everyday problems.
+Currently, I'm focused on strengthening my **Java, DSA, React, and full-stack development skills** while building projects that solve real-world problems.
 
 ---
 
@@ -55,7 +55,7 @@ Currently, I'm focused on strengthening my **Java, DSA and full-stack developmen
 * 🌐 Improving my **Full Stack Development** skills
 * 🛠️ Building and improving **AKTU Helper**
 * 🤝 Preparing for **Software Engineering Internships**
-* 📈 Improving my GitHub, projects and problem-solving profile
+* 📈 Building a strong developer portfolio
 
 ---
 
@@ -90,7 +90,7 @@ Currently, I'm focused on strengthening my **Java, DSA and full-stack developmen
 ## 📚 Currently Learning
 
 | Area           | Focus                                            |
-| -------------- | ------------------------------------------------ |
+| :------------- | :----------------------------------------------- |
 | ☕ Java         | Core Java, OOP & Collections                     |
 | 🧠 DSA         | Arrays, Strings, Linked List, Trees, Graphs & DP |
 | ⚛️ React       | Components, Hooks, Routing & APIs                |
@@ -104,7 +104,7 @@ Currently, I'm focused on strengthening my **Java, DSA and full-stack developmen
 
 ### 🎓 AKTU Helper
 
-**A student-focused platform for AKTU students to access academic resources.**
+**A student-focused platform designed to make academic resources easier to access for AKTU students.**
 
 * 📚 Previous Year Question Papers
 * 📝 Notes & study resources
@@ -119,7 +119,7 @@ Currently, I'm focused on strengthening my **Java, DSA and full-stack developmen
 
 ### 📚 Student Resource Portal
 
-A platform designed to make academic resources easier for students to discover and access.
+A platform designed to help students discover and access academic resources.
 
 **Features:**
 
@@ -169,7 +169,7 @@ Graphs
 Dynamic Programming
 ```
 
-### 🎯 Current DSA Goals
+### 🎯 DSA Goals
 
 * Solve problems consistently
 * Understand patterns instead of memorizing solutions
@@ -185,6 +185,7 @@ Dynamic Programming
   <a href="https://leetcode.com/">
     <img src="https://img.shields.io/badge/LeetCode-Problem%20Solving-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
   </a>
+
   <a href="https://github.com/tushxr77">
     <img src="https://img.shields.io/badge/GitHub-Projects-181717?style=for-the-badge&logo=github"/>
   </a>
@@ -192,22 +193,25 @@ Dynamic Programming
 
 ---
 
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tushxr77&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=tushxr77&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://github.com/Tushxr77/Tushxr77/blob/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/>
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/Tushxr77/Tushxr77/output/github-contribution-grid-snake-dark.svg">
+
+```
+<source
+  media="(prefers-color-scheme: light)"
+  srcset="https://raw.githubusercontent.com/Tushxr77/Tushxr77/output/github-contribution-grid-snake.svg">
+
+<img
+  alt="GitHub Contribution Snake"
+  src="https://raw.githubusercontent.com/Tushxr77/Tushxr77/output/github-contribution-grid-snake.svg">
+```
+
+  </picture>
 </p>
 
 ---
@@ -241,10 +245,22 @@ Dynamic Programming
 ## 📈 My Developer Journey
 
 ```text
-Learn → Practice → Build → Fail → Debug → Improve → Repeat
+Learn
+  ↓
+Practice
+  ↓
+Build
+  ↓
+Fail
+  ↓
+Debug
+  ↓
+Improve
+  ↓
+Repeat
 ```
 
-I believe consistency beats motivation.
+> Consistency beats motivation.
 
 Every problem I solve and every project I build is another step toward becoming a better software engineer.
 
